@@ -1,0 +1,6 @@
+c:\users\veena\documents\visual studio 2013\Projects\CreditCardService\CreditCardService\obj\Debug\CreditCardService.csprojResolveAssemblyReference.cache
+C:\Users\veena\Documents\Visual Studio 2013\Projects\CreditCardService\CreditCardService\bin\CreditCardService.dll.config
+C:\Users\veena\Documents\Visual Studio 2013\Projects\CreditCardService\CreditCardService\bin\CreditCardService.dll
+C:\Users\veena\Documents\Visual Studio 2013\Projects\CreditCardService\CreditCardService\bin\CreditCardService.pdb
+C:\Users\veena\Documents\Visual Studio 2013\Projects\CreditCardService\CreditCardService\obj\Debug\CreditCardService.dll
+C:\Users\veena\Documents\Visual Studio 2013\Projects\CreditCardService\CreditCardService\obj\Debug\CreditCardService.pdb

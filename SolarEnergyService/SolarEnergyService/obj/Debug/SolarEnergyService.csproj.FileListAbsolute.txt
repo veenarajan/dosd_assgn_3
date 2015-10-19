@@ -1,0 +1,12 @@
+c:\users\uma\documents\visual studio 2013\Projects\SolarEnergyService\SolarEnergyService\bin\SolarEnergyService.dll.config
+c:\users\uma\documents\visual studio 2013\Projects\SolarEnergyService\SolarEnergyService\bin\SolarEnergyService.dll
+c:\users\uma\documents\visual studio 2013\Projects\SolarEnergyService\SolarEnergyService\bin\SolarEnergyService.pdb
+c:\users\uma\documents\visual studio 2013\Projects\SolarEnergyService\SolarEnergyService\obj\Debug\SolarEnergyService.csprojResolveAssemblyReference.cache
+c:\users\uma\documents\visual studio 2013\Projects\SolarEnergyService\SolarEnergyService\obj\Debug\SolarEnergyService.dll
+c:\users\uma\documents\visual studio 2013\Projects\SolarEnergyService\SolarEnergyService\obj\Debug\SolarEnergyService.pdb
+C:\Users\veena\Documents\Visual Studio 2013\Projects\SolarEnergyService\SolarEnergyService\bin\SolarEnergyService.dll.config
+C:\Users\veena\Documents\Visual Studio 2013\Projects\SolarEnergyService\SolarEnergyService\bin\SolarEnergyService.dll
+C:\Users\veena\Documents\Visual Studio 2013\Projects\SolarEnergyService\SolarEnergyService\bin\SolarEnergyService.pdb
+C:\Users\veena\Documents\Visual Studio 2013\Projects\SolarEnergyService\SolarEnergyService\obj\Debug\SolarEnergyService.csprojResolveAssemblyReference.cache
+C:\Users\veena\Documents\Visual Studio 2013\Projects\SolarEnergyService\SolarEnergyService\obj\Debug\SolarEnergyService.dll
+C:\Users\veena\Documents\Visual Studio 2013\Projects\SolarEnergyService\SolarEnergyService\obj\Debug\SolarEnergyService.pdb

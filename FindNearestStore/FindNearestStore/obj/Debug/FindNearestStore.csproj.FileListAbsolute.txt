@@ -1,0 +1,10 @@
+c:\users\veena\documents\visual studio 2013\Projects\FindNearestStore\FindNearestStore\obj\Debug\FindNearestStore.csprojResolveAssemblyReference.cache
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\bin\FindNearestStore.dll.config
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\bin\FindNearestStore.dll
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\bin\FindNearestStore.pdb
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\bin\Newtonsoft.Json.dll
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\bin\SimpleOAuth.dll
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\bin\SimpleOAuth.pdb
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\bin\SimpleOAuth.xml
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\obj\Debug\FindNearestStore.dll
+C:\Users\veena\Documents\Visual Studio 2013\Projects\FindNearestStore\FindNearestStore\obj\Debug\FindNearestStore.pdb
