@@ -1,0 +1,6 @@
+c:\users\veena\documents\visual studio 2013\Projects\CrimeRate\CrimeRate\bin\CrimeRate.dll.config
+c:\users\veena\documents\visual studio 2013\Projects\CrimeRate\CrimeRate\bin\CrimeRate.dll
+c:\users\veena\documents\visual studio 2013\Projects\CrimeRate\CrimeRate\bin\CrimeRate.pdb
+c:\users\veena\documents\visual studio 2013\Projects\CrimeRate\CrimeRate\obj\Debug\CrimeRate.csprojResolveAssemblyReference.cache
+c:\users\veena\documents\visual studio 2013\Projects\CrimeRate\CrimeRate\obj\Debug\CrimeRate.dll
+c:\users\veena\documents\visual studio 2013\Projects\CrimeRate\CrimeRate\obj\Debug\CrimeRate.pdb

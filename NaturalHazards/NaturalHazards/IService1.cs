@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 
-namespace CreditCardService
+namespace NaturalHazards
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
     [ServiceContract]
@@ -14,8 +14,13 @@ namespace CreditCardService
     {
 
         [OperationContract]
-        bool creditcardvalidation(CardType card, string ip_card_number);       
+        [WebGet(UriTemplate = "getearthquakeprob?zip={zip}&radius={radius}")]
+        ObjectClass getearthquakeprob(string zip, string radius);
+        
+
+        
     }
 
 
+   
 }

@@ -1,0 +1,21 @@
+C:\Users\veena\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll.config
+C:\Users\veena\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+C:\Users\veena\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+C:\Users\veena\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\Newtonsoft.Json.dll
+C:\Users\veena\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\veena\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+C:\Users\veena\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+F:\Computer Engineering\dsod\Assignments\Assignment 3\ServerUpload\updated\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll.config
+F:\Computer Engineering\dsod\Assignments\Assignment 3\ServerUpload\updated\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+F:\Computer Engineering\dsod\Assignments\Assignment 3\ServerUpload\updated\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+F:\Computer Engineering\dsod\Assignments\Assignment 3\ServerUpload\updated\CurrencyConverter\CurrencyConverter\bin\Newtonsoft.Json.dll
+F:\Computer Engineering\dsod\Assignments\Assignment 3\ServerUpload\updated\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+F:\Computer Engineering\dsod\Assignments\Assignment 3\ServerUpload\updated\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+F:\Computer Engineering\dsod\Assignments\Assignment 3\ServerUpload\updated\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\veena\Desktop\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll.config
+C:\Users\veena\Desktop\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+C:\Users\veena\Desktop\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+C:\Users\veena\Desktop\CurrencyConverter\CurrencyConverter\bin\Newtonsoft.Json.dll
+C:\Users\veena\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\veena\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+C:\Users\veena\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
